@@ -1,0 +1,90 @@
+ .firstSection {
+            background-color: white;
+        }
+
+        .logo {
+            background-color: #4243ff;
+            color: #ffff;
+            padding: 6px 8px 6px 8px;
+            border-radius: 10px;
+        }
+
+        .firstSectionList {
+            display: inline-block;
+            margin-left: 90px;
+            margin-right: 20px;
+    font-size:15px;
+        }
+
+        .firstSectionList a {
+            color: #27292b;
+        }
+        
+        .firstSectionList li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        
+        .firstSectionButton {
+            float: right;
+            padding-top: 10px;
+        }
+
+        .firstSectionList a:link {
+            text-decoration: none;
+        }
+
+        .loginButton {
+            border: none;
+            border-radius: 3px;
+            background-color: #f0f5f5;
+            color: #8e9092;
+            padding-bottom: 5px;
+        }
+        
+        .createCVButton {
+            border: none;
+            border-radius: 3px;
+            background-color: #4243ff;
+            color: #f0f5f5;
+            padding-bottom: 5px;
+        }
+
+        .loginButton a {
+    color: rgb(15, 13, 13);
+            font-size: 8px;
+        }
+        
+        .createCVButton a {
+            color: rgb(224, 218, 218);
+            font-size: 8px;
+            /* padding-top: auto; */
+        }
+
+        a:link {
+            text-decoration: none;
+        }
+
+        .secondSection {
+            padding-top: 30px;
+            padding-left: 50px;
+        }
+
+        .secondSection h5 {
+            font-size: 15px;
+        }
+
+        .secondSectionButton {
+            border: none;
+            border-radius: 3px;
+            padding: 10px;
+            background-color: #4243ff;
+            color: rgb(255, 255, 255);
+            font-size: 25px;
+        }
+
+        .secondSectionImage {
+            float: right;
+            margin-top: -250px;
+        }
